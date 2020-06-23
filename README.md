@@ -1,7 +1,7 @@
 # WideAngleCameraInUnity
 在unity中打开广角摄像头（仅仅支持mi9）
 # ------------ unity -------------------
-## Assert:
+## Assert: unity项目源文件
    ### 1.创建自己的Unity项目，然后拷贝Assert 到unity项目
    ### 2.设置为Android编译
   
